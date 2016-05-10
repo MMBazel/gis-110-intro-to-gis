@@ -1,0 +1,43 @@
+Lab 4 Choropleth Mapping and Census Data
+
+The scenario
+
+You are working for the State of California in the GIS department, supporting multiple agencies.
+
+You have been contacted by the Department of Transportation’s (DOT) budget office to produce a statewide map
+
+showing public transportation usage by county. Of interest to the budget office is how to allocate the $978,360,000 in
+
+available funds in the 2009-2010 Public Transportation account between California’s 58 counties. They will be making
+
+funding allocation decisions and want to compare public transportation usage across the state in order to help them
+
+decide how to allocate the funds.
+
+More information: http://www.dot.ca.gov/docs/CaliforniaTransportationFinancingPackage2009-10.pdf
+
+You will be making several maps in this assignment, all in PDF format. The first exhibit will show your clients various
+
+options they have for their map, depending on how the data are classified. You will be helping to guide them toward
+
+the best and most useful map based on your knowledge of advanced cartography and choropleth mapping techniques.
+
+You have obtained recent CA public transportation data, by county, from the US Census FactFinder website.
+
+Deliverables
+
+For this assignment you will turn in three ArcMap document files (.mxd) and three .pdf files, by email, to your instruc-
+tor (see Section 8 for specifics).
+
+
+Skills, concepts and terms in this assignment
+
+□ Classification methods: Equal interval, Quantile, Defined interval, Natural
+
+Breaks
+
+□ New GIS data storage type: personal geodatabase
+
+□ Map types: Dot Density, Graduated/Proportional Symbol, Pie Chart
+
+□ Terms: choropleth

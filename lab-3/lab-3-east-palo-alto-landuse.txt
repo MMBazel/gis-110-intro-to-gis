@@ -1,0 +1,51 @@
+Lab 3 East Palo Alto Land Use
+
+The scenario
+
+The city of East Palo Alto plans to build a community child care center using $5 million donated by an unnamed
+
+Silicon Valley philanthropist. The center will provide free child care for residents of East Palo Alto, in order to allow
+
+more mothers and single parents to participate in the labor market. You are the city planner assigned to study where
+
+the facility should be located.
+
+The criteria
+
+Based on meetings you have attended, you have gathered that the center should be located inside a residential zone
+
+and cannot be within 500 feet of a leaking underground storage tank identified by the Environmental Protection
+
+Agency (EPA). Ideally, it should be in a convenient location close to where the families with children (your “custom-
+ers”) live.
+
+The problem
+
+You have some base GIS data layers in your system but none that depict the particular features needed for this child
+
+care center analysis. But you have done some research on the internet and compiled some images and text files and
+
+data tables that are relevant.
+
+This assignment introduces the idea of turning non-GIS data sources into mappable data.
+
+Our created data will be 1) a landuse polygon layer, 2) a leaking underground storage tank point location layer, and 3)
+
+a customer point location layer. We will build the GIS data in the UTM Zone 10 coordinate system. Finally, you will
+
+create a simple map layout showing the new data layers you created. Turn in the shapefiles you create for this assign-
+ment as well as a final map output and your map document.
+
+Skills, concepts and terms in this assignment
+
+□ Creating a new shapefile
+
+□ Georeferencing an image using control points
+
+□ Digitizing a new shape using vertices
+
+□ Adding X,Y data
+
+□ Tabular join
+
+□ Geocoding addresses

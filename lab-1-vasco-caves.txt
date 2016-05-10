@@ -1,0 +1,54 @@
+# Lab 1 Vasco Caves
+
+Background
+
+You are working for the East Bay Regional Park District (EBRPD) to study the desirability of acquir-
+ing the Vasco Caves near Byron, as a new park unit. The East Bay counties contain numerous impor-
+tant natural California habitats.
+
+Of interest to the land managers in this hypothetical scenario is the distribution of special status wild-
+life species around the Vasco Caves area. You are to make an exhibit map for land managers showing
+
+the distribution of one wildlife species in the area, to help in the decision-making process.
+
+The exhibit will show both a detailed view of the immediate area and an overview that shows the area
+
+in context of the rest of the East Bay.
+
+Specifically, the overview will show the county lines, major towns, other EBRPD owned lands, and
+
+major highways. The detailed view will show the distribution of your assigned wildlife species, the
+
+extent of the Vasco Caves Land Bank, the area’s terrain, streams, and roads. The wildlife species are
+
+assigned as follows:
+
+Your last name begins with Common name (“CNAME”) of your assigned species
+
+A-G California tiger salamander
+
+H-P California red-legged frog
+
+Q-Z burrowing owl
+
+Skills, concepts and terms in this assignment
+
+In Lab 1 you will be making a simple map while getting oriented to the ArcMap interface.
+
+□ ArcMap startup, interface and toolbars
+
+□ Adding data, panning, zooming and identifying features
+
+□ Setting definition queries using SQL
+
+□ Setting classified symbology
+
+□ Making a basic map, arranging map elements, and map output
+
+□ Vocabulary terms: metadata, vector, shapefile, georeferenced, projection
+
+Deliverables
+
+For this assignment you will turn in an ArcMap document file (.mxd) and a .pdf image output of your
+
+map by email to your instructor (see Section 15 for specifics).

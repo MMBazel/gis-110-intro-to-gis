@@ -1,0 +1,64 @@
+Lab 2 BART Expansion Study
+
+Background
+
+When the Bay Area Rapid Transit (BART) system opened in 1972, it consisted of lines serving the Bay Area and end-
+ing at Daly City, Richmond, Fremont, and Concord stations. The late 1990’s and early 2000’s brought several expan-
+sions of the system, including extending the Concord line to Bay Point, a new branch line to Dublin/Pleasanton, and
+
+the extension of the Daly City line to the SF Airport and Millbrae.
+
+Imagine you are working for BART to study the cost and benefit of several different future potential expansions.
+
+Specifically, you will be finding out which areas would be served by the proposed extension options, and how many
+
+people live in these areas. For the sake of simplicity in analysis, we will be making several (perhaps unrealistic) gener-
+alizations about BART usage. For example, we are going to assume that each BART station serves only the residents
+
+within four miles of it.
+
+Using this assumption, we start with some baseline information. Following are tables showing the number of people
+
+living within four miles of each existing BART station, summarized by county. You will be referring to these tables
+
+later in the lab.
+
+Skills, concepts and terms in this assignment
+
+□ Basic overlay analysis operations: buffer, union, intersect, dissolve
+
+□ Select By Location
+
+□ Exporting and saving datasets from selections
+
+□ Create summary tables
+
+□ Two GIS file types: shapefile, geodatabase
+
+□ The three software components: ArcCatalog, ArcMap, ArcToolbox
+
+Deliverables
+
+For this assignment you will be turning in a simple report as an Excel spreadsheet
+
+showing the list of cities newly served by the proposed BART stations, the numbers of
+
+people served by the existing station and the numbers of people newly served, a map
+
+graphic as illustration, the names of your three proposed BART stations, and your name
+
+and a date (see Section 15 for specifics).
+
+This lab will refer to various toolbars, buttons and menus which were explained in detail
+
+with pictures in Lab 1. If needed, have a copy of Lab 1 handy and use it for reference.
+
+Last name: Your assigned BART stations:
+
+Existing Proposed
+
+A-G Pittsburg-Bay Point Antioch, Brentwood, Byron
+
+H-P Dublin-Pleasanton Isabel, Greenville, Tracy
+
+Q-Z Fremont Irvington, Warm Springs, South Calaveras
